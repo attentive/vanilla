@@ -9,6 +9,7 @@
               :ns-name (sanitize-ns name)
               :sanitized (name-to-path name)}]
     (->files data ["project.clj" (render "project.clj" data)]
+[".gitignore" (render ".gitignore" data)]
 ["dev/user.clj" (render "user.clj" data)]
 ["src/clj/{{sanitized}}/core.clj" (render "core.clj" data)]
 ["src/clj/{{sanitized}}/response.clj" (render "response.clj" data)]
