@@ -14,9 +14,11 @@
     </license>
   </licenses>
   <scm>
-    <tag>c672df9d9499535463a497b6522916beb9ed0133
+    <connection>scm:git:git://github.com/attentive/vanilla.git</connection>
+    <developerConnection>scm:git:ssh://git@github.com/attentive/vanilla.git</developerConnection>
+    <tag>251fd0af790450452fe2e8db90e2e410f4022245
 </tag>
-    <url/>
+    <url>https://github.com/attentive/vanilla</url>
   </scm>
   <build>
     <sourceDirectory>src</sourceDirectory>

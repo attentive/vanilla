@@ -1,4 +1,4 @@
-(defproject vanilla/lein-template "0.1.0"
+(defproject vanilla/lein-template "0.2.0"
   :description "Created with lein-create-template"
   :url "http://example.com/FIXME"
   :license {:name "Eclipse Public License"

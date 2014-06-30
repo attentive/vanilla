@@ -1,5 +1,5 @@
 (defproject {{ns-name}} "0.1-SNAPSHOT"
-  :description "Vanilla Om project template"
+  :description "{{ns-name}} :: an Om web application"
   :jvm-opts ^:replace ["-Xmx1g" "-server"]
 
   :dependencies [[org.clojure/clojure "1.5.1"]
