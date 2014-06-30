@@ -13,6 +13,11 @@
       <url>http://www.eclipse.org/legal/epl-v10.html</url>
     </license>
   </licenses>
+  <scm>
+    <tag>c672df9d9499535463a497b6522916beb9ed0133
+</tag>
+    <url/>
+  </scm>
   <build>
     <sourceDirectory>src</sourceDirectory>
     <testSourceDirectory>test</testSourceDirectory>
